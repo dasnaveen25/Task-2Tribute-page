@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+
+.main{
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.year{
+    padding-bottom:  30px;
+}
+
+.contaner{
+    background-color: white;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    
+
+
+    #font{
+margin: 20px;
+padding: 20px;
+    }
+    }
+
+    .img{
+padding-left: 30%;
+width: 50%;
+
+    }
+
+
+    .footer{
+        color: white;
+        align-items: center;
+        text-align: center;
+        padding-top: 60px;
+    }
